@@ -1,0 +1,268 @@
+2026-03-25 22:52:26,400 - INFO - Logging configured
+2026-03-25 22:52:26,400 - INFO - CDM API server started
+2026-03-25 22:56:11,983 - ERROR - CDM ingestion failed for /Users/aakritkumar/Desktop/round/cdm_archive.zip
+Traceback (most recent call last):
+  File "/Users/aakritkumar/Desktop/round/CDM_system/src/etl/ingest.py", line 27, in ingest_all_cdms
+    data = json.load(file_handle)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-03-25 22:56:24,432 - INFO - CDM API server stopped
+2026-03-25 22:56:28,651 - INFO - Logging configured
+2026-03-25 22:56:28,651 - INFO - CDM API server started
+2026-03-25 22:56:32,849 - ERROR - CDM ingestion failed for /Users/aakritkumar/Desktop/round/cdm_archive.zip
+Traceback (most recent call last):
+  File "/Users/aakritkumar/Desktop/round/CDM_system/src/etl/ingest.py", line 27, in ingest_all_cdms
+    data = json.load(file_handle)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-03-25 22:58:21,357 - INFO - CDM API server stopped
+2026-03-25 23:01:34,385 - INFO - Logging configured
+2026-03-25 23:01:34,386 - INFO - CDM API server started
+2026-03-25 23:19:32,230 - INFO - CDM API server stopped
+2026-03-25 23:19:33,348 - INFO - Logging configured
+2026-03-25 23:19:33,348 - INFO - CDM API server started
+2026-03-25 23:19:34,466 - INFO - CDM API server stopped
+2026-03-25 23:19:35,536 - INFO - Logging configured
+2026-03-25 23:19:35,536 - INFO - CDM API server started
+2026-03-25 23:19:36,448 - INFO - CDM API server stopped
+2026-03-25 23:19:37,088 - INFO - Logging configured
+2026-03-25 23:19:37,088 - INFO - CDM API server started
+2026-03-25 23:21:49,064 - INFO - CDM API server stopped
+2026-03-25 23:21:51,200 - INFO - Logging configured
+2026-03-25 23:21:51,200 - INFO - CDM API server started
+2026-03-25 23:27:57,432 - INFO - CDM API server stopped
+2026-03-25 23:29:54,667 - INFO - Logging configured
+2026-03-25 23:29:54,667 - INFO - CDM API server started
+2026-03-25 23:34:30,753 - INFO - CDM API server stopped
+2026-03-25 23:34:31,823 - INFO - Logging configured
+2026-03-25 23:34:31,823 - INFO - CDM API server started
+2026-03-25 23:34:39,818 - INFO - CDM API server stopped
+2026-03-25 23:34:40,587 - INFO - Logging configured
+2026-03-25 23:34:40,588 - INFO - CDM API server started
+2026-03-25 23:34:42,820 - INFO - CDM API server stopped
+2026-03-25 23:34:43,522 - INFO - Logging configured
+2026-03-25 23:34:43,522 - INFO - CDM API server started
+2026-03-25 23:34:47,366 - INFO - CDM API server stopped
+2026-03-25 23:34:48,017 - INFO - Logging configured
+2026-03-25 23:34:48,017 - INFO - CDM API server started
+2026-03-25 23:35:00,578 - INFO - CDM API server stopped
+2026-03-25 23:35:01,468 - INFO - Logging configured
+2026-03-25 23:35:01,468 - INFO - CDM API server started
+2026-03-25 23:35:07,753 - INFO - CDM API server stopped
+2026-03-25 23:35:08,568 - INFO - Logging configured
+2026-03-25 23:35:08,568 - INFO - CDM API server started
+2026-03-25 23:35:12,325 - INFO - CDM API server stopped
+2026-03-25 23:35:12,966 - INFO - Logging configured
+2026-03-25 23:35:12,966 - INFO - CDM API server started
+2026-03-25 23:35:43,830 - INFO - CDM API server stopped
+2026-03-25 23:35:44,707 - INFO - Logging configured
+2026-03-25 23:35:44,707 - INFO - CDM API server started
+2026-03-25 23:35:51,096 - INFO - CDM API server stopped
+2026-03-25 23:49:01,880 - INFO - Logging configured
+2026-03-25 23:49:01,880 - INFO - CDM API server started
+2026-03-25 23:49:04,612 - INFO - CDM API server stopped
+2026-03-25 23:49:05,240 - INFO - Logging configured
+2026-03-25 23:49:05,240 - INFO - CDM API server started
+2026-03-25 23:49:08,289 - INFO - CDM API server stopped
+2026-03-25 23:49:08,893 - INFO - Logging configured
+2026-03-25 23:49:08,893 - INFO - CDM API server started
+2026-03-25 23:49:14,777 - INFO - CDM API server stopped
+2026-03-25 23:49:15,385 - INFO - Logging configured
+2026-03-25 23:49:15,385 - INFO - CDM API server started
+2026-03-25 23:49:18,826 - INFO - CDM API server stopped
+2026-03-25 23:49:19,457 - INFO - Logging configured
+2026-03-25 23:49:19,457 - INFO - CDM API server started
+2026-03-25 23:49:23,633 - INFO - CDM API server stopped
+2026-03-25 23:49:24,289 - INFO - Logging configured
+2026-03-25 23:49:24,289 - INFO - CDM API server started
+2026-03-25 23:50:49,478 - INFO - CDM API server stopped
+2026-03-25 23:50:50,389 - INFO - Logging configured
+2026-03-25 23:50:50,389 - INFO - CDM API server started
+2026-03-25 23:50:53,726 - INFO - CDM API server stopped
+2026-03-25 23:50:54,406 - INFO - Logging configured
+2026-03-25 23:50:54,407 - INFO - CDM API server started
+2026-03-25 23:50:55,015 - INFO - CDM API server stopped
+2026-03-25 23:50:55,722 - INFO - Logging configured
+2026-03-25 23:50:55,722 - INFO - CDM API server started
+2026-03-25 23:50:56,329 - INFO - CDM API server stopped
+2026-03-25 23:50:56,957 - INFO - Logging configured
+2026-03-25 23:50:56,957 - INFO - CDM API server started
+2026-03-25 23:51:06,981 - INFO - CDM API server stopped
+2026-03-25 23:57:06,296 - INFO - Logging configured
+2026-03-25 23:57:06,296 - INFO - CDM API server started
+2026-03-25 23:58:28,643 - ERROR - CDM ingestion failed for /Users/aakritkumar/Desktop/round/cdm_archive.zip
+Traceback (most recent call last):
+  File "/Users/aakritkumar/Desktop/round/CDM_system/src/etl/ingest.py", line 29, in ingest_all_cdms
+    if not self.util._is_supported_cdm_entry(filename):
+AttributeError: 'Ingestion' object has no attribute 'util'
+2026-03-25 23:59:03,945 - INFO - CDM API server stopped
+2026-03-25 23:59:11,572 - INFO - Logging configured
+2026-03-25 23:59:11,572 - INFO - CDM API server started
+2026-03-25 23:59:12,080 - INFO - CDM API server stopped
+2026-03-25 23:59:18,436 - INFO - Logging configured
+2026-03-25 23:59:18,436 - INFO - CDM API server started
+2026-03-25 23:59:22,988 - INFO - CDM API server stopped
+2026-03-25 23:59:23,742 - INFO - Logging configured
+2026-03-25 23:59:23,742 - INFO - CDM API server started
+2026-03-25 23:59:26,586 - ERROR - CDM ingestion failed for /Users/aakritkumar/Desktop/round/cdm_archive.zip
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "_message_id_uc"
+DETAIL:  Key (message_id)=(0000100014_conj_0000100015_2025297050130_2025290180658) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/aakritkumar/Desktop/round/CDM_system/src/etl/ingest.py", line 56, in ingest_all_cdms
+    session.merge(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3953, in merge
+    self._autoflush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3061, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3050, in _autoflush
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4352, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "_message_id_uc"
+DETAIL:  Key (message_id)=(0000100014_conj_0000100015_2025297050130_2025290180658) already exists.
+
+[SQL: INSERT INTO cdm_records (message_id, creation_date, tca, sat1_id, sat2_id, constellation, miss_distance, event_id, ingested_at, raw_json) VALUES (%(message_id)s, %(creation_date)s, %(tca)s, %(sat1_id)s, %(sat2_id)s, %(constellation)s, %(miss_distance)s, %(event_id)s, %(ingested_at)s, %(raw_json)s::JSONB) RETURNING cdm_records.id]
+[parameters: {'message_id': '0000100014_conj_0000100015_2025297050130_2025290180658', 'creation_date': datetime.datetime(2025, 10, 17, 18, 6, 58, 844164), 'tca': datetime.datetime(2025, 10, 24, 5, 1, 30, 308216), 'sat1_id': '100014', 'sat2_id': '100015', 'constellation': 'ORION', 'miss_distance': 8134.523, 'event_id': '100014_100015_2025-10-24T05:01:30.308216', 'ingested_at': datetime.datetime(2026, 3, 25, 18, 29, 26, 569545), 'raw_json': '{"CCSDS_CDM_VERS": "1.0", "CDM_ID": null, "CREATION_DATE": "2025-10-17T18:06:58.844164", "ORIGINATOR": "KAYHAN", "MESSAGE_FOR": null, "MESSAGE_ID": " ... (7371 characters truncated) ... T_TDOT": "0.000561038566447181", "SAT2_CNDOT_TDOT_UNIT": "m**2/s**2", "SAT2_CNDOT_NDOT": "0.001854177485375530", "SAT2_CNDOT_NDOT_UNIT": "m**2/s**2"}'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-03-26 00:16:51,751 - INFO - CDM API server stopped
+2026-03-26 00:16:52,931 - INFO - Logging configured
+2026-03-26 00:16:52,932 - INFO - CDM API server started
+2026-03-26 00:16:59,304 - INFO - CDM API server stopped
+2026-03-26 00:17:00,198 - INFO - Logging configured
+2026-03-26 00:17:00,198 - INFO - CDM API server started
+2026-03-26 00:17:03,743 - INFO - CDM API server stopped
+2026-03-26 00:17:04,382 - INFO - Logging configured
+2026-03-26 00:17:04,382 - INFO - CDM API server started
+2026-03-26 00:20:37,920 - INFO - CDM API server stopped
+2026-03-26 00:20:39,007 - INFO - Logging configured
+2026-03-26 00:20:39,007 - INFO - CDM API server started
+2026-03-26 00:20:59,544 - INFO - CDM API server stopped
+2026-03-26 00:21:00,437 - INFO - Logging configured
+2026-03-26 00:21:00,437 - INFO - CDM API server started
+2026-03-26 01:14:33,895 - INFO - CDM API server stopped
+2026-03-27 10:49:09,034 - INFO - Logging configured
+2026-03-27 10:49:09,035 - INFO - CDM API server started
+2026-03-27 10:52:13,965 - INFO - CDM API server stopped
+2026-03-27 17:55:30,277 - INFO - Logging configured
+2026-03-27 17:55:30,278 - INFO - CDM API server started
+2026-03-27 17:56:41,920 - INFO - CDM API server stopped
+2026-03-27 18:01:37,865 - INFO - Logging configured
+2026-03-27 18:01:37,866 - INFO - CDM API server started
+2026-03-27 18:02:25,181 - ERROR - CDM ingestion failed for /Users/aakritkumar/Desktop/round/cdm_archive.zip
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "_message_id_uc"
+DETAIL:  Key (message_id)=(0000100014_conj_0000100015_2025297050130_2025290180658) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/aakritkumar/Desktop/round/CDM_system/src/etl/ingest.py", line 64, in ingest_all_cdms
+    session.merge(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3953, in merge
+    self._autoflush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3061, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3050, in _autoflush
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4352, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 4448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "_message_id_uc"
+DETAIL:  Key (message_id)=(0000100014_conj_0000100015_2025297050130_2025290180658) already exists.
+
+[SQL: INSERT INTO cdm_records (message_id, creation_date, tca, sat1_id, sat2_id, constellation, miss_distance, event_id, ingested_at, raw_json) VALUES (%(message_id)s, %(creation_date)s, %(tca)s, %(sat1_id)s, %(sat2_id)s, %(constellation)s, %(miss_distance)s, %(event_id)s, %(ingested_at)s, %(raw_json)s::JSONB) RETURNING cdm_records.id]
+[parameters: {'message_id': '0000100014_conj_0000100015_2025297050130_2025290180658', 'creation_date': datetime.datetime(2025, 10, 17, 18, 6, 58, 844164), 'tca': datetime.datetime(2025, 10, 24, 5, 1, 30, 308216), 'sat1_id': '100014', 'sat2_id': '100015', 'constellation': 'ORION', 'miss_distance': 8134.523, 'event_id': '100014_100015_2025-10-24T05:01:30.308216', 'ingested_at': datetime.datetime(2026, 3, 27, 12, 32, 25, 177397), 'raw_json': '{"CCSDS_CDM_VERS": "1.0", "CDM_ID": null, "CREATION_DATE": "2025-10-17T18:06:58.844164", "ORIGINATOR": "KAYHAN", "MESSAGE_FOR": null, "MESSAGE_ID": " ... (7371 characters truncated) ... T_TDOT": "0.000561038566447181", "SAT2_CNDOT_TDOT_UNIT": "m**2/s**2", "SAT2_CNDOT_NDOT": "0.001854177485375530", "SAT2_CNDOT_NDOT_UNIT": "m**2/s**2"}'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-03-27 18:03:43,871 - INFO - CDM API server stopped
+2026-03-27 18:08:29,473 - INFO - Logging configured
+2026-03-27 18:08:29,474 - INFO - CDM API server started
+2026-03-27 18:08:34,631 - INFO - CDM API server stopped
